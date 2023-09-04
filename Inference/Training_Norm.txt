@@ -1,0 +1,7 @@
+-2.391337 13.75687   # forceWF
+
+-2.473722 9.862559   # forceFF
+
+0.01 5.8             # TrainLJ_Norm1
+
+0.1191 0.03646       # TrainLJ_Norm2
